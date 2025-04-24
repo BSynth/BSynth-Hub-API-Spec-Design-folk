@@ -1,6 +1,8 @@
 # 📘 BSynth Hub Dashboard API Spec
 
-This document describes the API structure and sample data format for the BSynth Hub Dashboard Project. The backend team can use this as a reference for building the endpoints.
+This document describes the API structure and sample data format for the BSynth Hub Dashboard Project. 
+
+The backend team can use this as a reference for building the endpoints.
 
 ---
 
